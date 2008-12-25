@@ -21,7 +21,7 @@ for Poliqarpr is used in examples and testing.
 
 == REQUIREMENTS:
 
-* poliqarpr 
+* poliqarpr (sudo gem install apohllo-poliqarpr)
 * Poliqarp server (only C implementation http://poliqarp.sourceforge.net/)
 
 == INSTALL:
