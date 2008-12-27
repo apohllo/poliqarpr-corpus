@@ -50,6 +50,6 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--main", "README.txt"]
   s.has_rdoc = true
   s.extra_rdoc_files = ["README.txt"]
-  s.add_dependency("poliqarpr", [">= 0.0.3"])
+  s.add_dependency("apohllo-poliqarpr", [">= 0.0.3"])
 end
 
