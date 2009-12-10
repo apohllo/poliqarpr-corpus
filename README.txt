@@ -21,7 +21,7 @@ for Poliqarpr is used in examples and testing.
 
 == REQUIREMENTS:
 
-* poliqarpr (sudo gem install apohllo-poliqarpr)
+* poliqarpr (sudo gem install poliqarpr)
 * Poliqarp server (only C implementation http://poliqarp.sourceforge.net/)
 
 == INSTALL:
@@ -31,13 +31,13 @@ You need RubyGems v. 1.2
 * gem -v 
 * 1.2.0 #=> ok
 
-You need the github.com repository to be added to your sources list:
+You need the gemcutter.org repository to be added to your sources list:
 
-* gem sources -a http://gems.github.com
+* gem sources -a http://gemcutter.org
 
 Then you can type:
 
-* sudo gem install apohllo-poliqarpr-corpus
+* sudo gem install poliqarpr-corpus
 
 == BASIC USAGE: 
 
